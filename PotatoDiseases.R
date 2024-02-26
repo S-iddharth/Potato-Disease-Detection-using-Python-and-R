@@ -3,8 +3,8 @@ library(keras)
 
 set.seed(42)
 
-train_dir <- "C:\\Users\\Siddharth gupta\\Downloads\\training_data"
-val_dir <- "C:\\Users\\Siddharth gupta\\Downloads\\validation_data"
+train_dir <- "input your training directory path"
+val_dir <- "input your validation directory path"
 
 train_datagen <- image_data_generator(rescale=1/255,
                                       rotation_range=40,
