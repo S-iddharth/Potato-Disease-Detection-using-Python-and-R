@@ -6,7 +6,7 @@ advanced deep learning techniques to accurately detect and classify potato disea
 By providing farmers with timely and accurate information, our model aims to empower them to 
 take appropriate measures to protect their crops and improve yield. 
 
-# Tech Stack : RStudio, TensorFlow, Keras, Categorial Multi Class Classification Model
+# Tech Stack : Python IDE, RStudio, TensorFlow, Keras, Categorial Multi Class Classification Model
 
 # Dataset Instructions: 
 Download your premium dataset from https://www.kaggle.com/datasets/mukaffimoin/potato-diseases-datasets
